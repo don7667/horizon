@@ -2,7 +2,7 @@
 
 set -e
 
-PACKAGES=$(find src/github.com/openbankit/horizon -type d | sed -e 's/^src\///')
+PACKAGES=$(find src/github.com/don7667/hr -type d | sed -e 's/^src\///')
 
 for i in $PACKAGES; do
 	has_tests=`ls -1 src/$i/*_test.go 2>/dev/null | wc -l`
