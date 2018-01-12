@@ -286,7 +286,7 @@
 		{
 			"importpath": "github.com/visionmedia/go-debug",
 			"repository": "https://github.com/visionmedia/go-debug",
-			"revision": "",
+			"revision": "bfacf9d8a444b50f5d7ae47727544e775486966f",
 			"branch": "master"
 		},
 		{
