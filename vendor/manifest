@@ -16,13 +16,13 @@
 		{
 			"importpath": "github.com/Masterminds/squirrel",
 			"repository": "https://github.com/Masterminds/squirrel",
-			"revision": "20f192218cf52a73397fa2df45bdda720f3e47c8",
+			"revision": "",
 			"branch": "v1"
 		},
 		{
 			"importpath": "github.com/PuerkitoBio/throttled",
 			"repository": "https://github.com/PuerkitoBio/throttled",
-			"revision": "1c8297c643b774435df8df65f7502b37d014fb6b",
+			"revision": "",
 			"branch": "master"
 		},
 		{
