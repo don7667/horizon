@@ -2,7 +2,7 @@ package db2
 
 import (
 	"fmt"
-	sq "github.com/lann/squirrel"
+	sq "github.com/Masterminds/squirrel"
 	"time"
 )
 
