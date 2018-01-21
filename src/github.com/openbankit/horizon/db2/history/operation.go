@@ -8,7 +8,7 @@ import (
 	"github.com/openbankit/horizon/toid"
 	"github.com/go-errors/errors"
 	"github.com/guregu/null"
-	sq "github.com/lann/squirrel"
+	sq "github.com/Masterminds/squirrel"
 	"time"
 )
 
