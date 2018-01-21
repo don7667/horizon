@@ -6,7 +6,7 @@ import (
 	"github.com/openbankit/go-base/xdr"
 	"github.com/openbankit/horizon/helpers"
 	"github.com/openbankit/horizon/log"
-	sq "github.com/Masterminds/squirrel"
+	sq "github.com/lann/squirrel"
 )
 
 // AccountStatistics is a row of data from the `account_statistics` table
