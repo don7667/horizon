@@ -14,8 +14,8 @@
 			"branch": "master"
 		},
 		{
-			"importpath": "github.com/Masterminds/squirrel",
-			"repository": "https://github.com/Masterminds/squirrel",
+			"importpath": "github.com/lann/squirrel",
+			"repository": "https://github.com/lann/squirrel",
 			"revision": "",
 			"branch": "v1"
 		},
