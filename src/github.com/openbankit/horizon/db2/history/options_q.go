@@ -1,7 +1,7 @@
 package history
 
 import (
-	sq "github.com/Masterminds/squirrel"
+	sq "github.com/lann/squirrel"
 	"github.com/openbankit/horizon/log"
 )
 
