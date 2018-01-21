@@ -7,7 +7,7 @@ import (
 
 	"github.com/openbankit/go-base/xdr"
 	"github.com/openbankit/horizon/db2"
-	sq "github.com/Masterminds/squirrel"
+	sq "github.com/lann/squirrel"
 )
 
 // QInterface is a helper struct on which to hang common queries against a history
