@@ -5,7 +5,7 @@ import (
 	"github.com/openbankit/go-base/xdr"
 	"github.com/openbankit/horizon/db2"
 	"github.com/guregu/null"
-	sq "github.com/lann/squirrel"
+	sq "github.com/Masterminds/squirrel"
 	"encoding/json"
 	"github.com/go-errors/errors"
 )
