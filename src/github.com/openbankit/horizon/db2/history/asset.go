@@ -2,7 +2,7 @@ package history
 
 import (
 	"github.com/openbankit/horizon/db2"
-	sq "github.com/Masterminds/squirrel"
+	sq "github.com/lann/squirrel"
 	"github.com/openbankit/go-base/xdr"
 )
 
