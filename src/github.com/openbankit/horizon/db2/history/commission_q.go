@@ -6,7 +6,7 @@ import (
 	"github.com/openbankit/horizon/db2/history/details"
 	"github.com/openbankit/horizon/log"
 	"encoding/json"
-	sq "github.com/lann/squirrel"
+	sq "github.com/Masterminds/squirrel"
 	"sort"
 	"strings"
 )
