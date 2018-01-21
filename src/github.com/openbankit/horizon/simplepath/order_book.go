@@ -2,7 +2,7 @@ package simplepath
 
 import (
 	"errors"
-	sq "github.com/Masterminds/squirrel"
+	sq "github.com/lann/squirrel"
 	"github.com/openbankit/go-base/xdr"
 	"github.com/openbankit/horizon/assets"
 	"github.com/openbankit/horizon/db2/core"
