@@ -1,6 +1,6 @@
 package history
 
-import sq "github.com/lann/squirrel"
+import sq "github.com/Masterminds/squirrel"
 
 // GetAccountLimits returns limits row by account and asset.
 func (q *Q) GetAccountLimits(
