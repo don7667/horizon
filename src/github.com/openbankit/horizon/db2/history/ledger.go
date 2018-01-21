@@ -3,7 +3,7 @@ package history
 import (
 	"github.com/openbankit/horizon/db2"
 	"github.com/guregu/null"
-	sq "github.com/Masterminds/squirrel"
+	sq "github.com/lann/squirrel"
 	"time"
 )
 
