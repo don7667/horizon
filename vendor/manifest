@@ -26,15 +26,15 @@
 			"branch": "master"
 		},
 		{
-			"importpath": "github.com/sirupsen/logrus",
-			"repository": "https://github.com/sirupsen/logrus",
-			"revision": "68cec9f21fbf3ea8d8f98c044bc6ce05f17b267a",
+			"importpath": "github.com/Sirupsen/logrus",
+			"repository": "https://github.com/Sirupsen/logrus",
+			"revision": "",
 			"branch": "master"
 		},
 		{
-			"importpath": "github.com/sirupsen/logrus/hooks/test",
-			"repository": "https://github.com/sirupsen/logrus",
-			"revision": "68cec9f21fbf3ea8d8f98c044bc6ce05f17b267a",
+			"importpath": "github.com/Sirupsen/logrus/hooks/test",
+			"repository": "https://github.com/Sirupsen/logrus",
+			"revision": "",
 			"branch": "master",
 			"path": "/hooks/test"
 		},
@@ -42,6 +42,7 @@
 			"importpath": "github.com/agl/ed25519",
 			"repository": "https://github.com/agl/ed25519",
 			"revision": "278e1ec8e8a6e017cd07577924d6766039146ced",
+			
 			"branch": "master"
 		},
 		{
