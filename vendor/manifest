@@ -569,6 +569,13 @@
 			"path": "/publicsuffix"
 		},
 		{
+		         "importpath": "golang.org/x/sys/unix",
+			 "repository": "https://go.googlesource.com/net",
+			 "revision": "",
+			 "branch": "master",
+			 "path": "/unix"
+		},
+		{
 			"importpath": "gopkg.in/gavv/httpexpect.v1",
 			"repository": "https://gopkg.in/gavv/httpexpect.v1",
 			"revision": "47bd51a8ce805ecbcb766a00041d5dc2fd4a23a8",
